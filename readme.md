@@ -2,7 +2,12 @@
 
 Belayer is a simple CLI tool that allows you to install and manage UI components from a remote GitHub repository.
 
+
+
 ## 🚀 Installation
+
+> [!IMPORTANT]  
+> Belayer is currently in early Alpha. It is not currently published to NPM! To run locally you must use the `npm link`  command.
 
 You can use Belayer directly with `npx`:
 

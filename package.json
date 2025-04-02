@@ -1,0 +1,22 @@
+{
+  "name": "belayer",
+  "version": "0.0.1",
+  "description": "Remote component loader",
+  "license": "ISC",
+  "author": "Rory Ashford-Bentley",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "belayer": "./index.js"
+  },
+  "type": "module",
+  "dependencies": {
+    "commander": "^13.1.0",
+    "fs-extra": "^11.3.0",
+    "inquirer": "^12.5.0",
+    "ora": "^8.2.0",
+    "path": "^0.12.7"
+  }
+}
